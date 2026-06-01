@@ -1,0 +1,2 @@
+# Convolutional-Neural-Network-CNN-Development-for-Image-Classification
+* Train a CNN on CIFAR-10 with 0-1 normalization and one-hot labels. Build an architecture using Conv2D, ReLU, MaxPooling2D, and Dense layers with Adam optimization. * Apply ImageDataGenerator for rotations, shifts, and flips to prevent overfitting. Plot accuracy curves and visualize intermediate layer feature maps using Matplotlib.
